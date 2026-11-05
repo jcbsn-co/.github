@@ -1,0 +1,1 @@
+<a href="https://thejcbsnbrand.com"><img src="https://raw.githubusercontent.com/jcbsn-co/.github/main/profile/profile.png" width="856" alt="JCBSN. A name on the things that matter. Scroll the Bible and JCBSN."></a>

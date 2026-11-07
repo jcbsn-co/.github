@@ -1,8 +1,15 @@
 <a href="https://thejcbsnbrand.com"><img src="profile/profile.png" width="856" alt="JCBSN. A name on the things that matter. Scroll the Bible and JCBSN."></a>
 
-# .github
+# JCBSN
 
-The public profile for the [jcbsn-co](https://github.com/jcbsn-co) GitHub organization.
+A name on the things that matter. Visit [thejcbsnbrand.com](https://thejcbsnbrand.com).
 
-- [`profile/README.md`](profile/README.md) is the page shown at [github.com/jcbsn-co](https://github.com/jcbsn-co): the banner and links to Scroll the Bible, Bible Word Study, and JCBSN.
-- [`profile/profile.png`](profile/profile.png) is the banner image. It is 2x the width it is shown at, so it stays sharp on high-density screens.
+## Apps
+
+- **[Scroll the Bible](https://scrollthebibleapp.com)**: the Bible, one verse at a time. [Download on the App Store](https://apps.apple.com/us/app/scroll-the-bible/id6756558351).
+- **[Bible Word Study](https://thejcbsnbrand.com/bible-word-study)**: study the Bible deeper, easier, quicker. [Download on the App Store](https://apps.apple.com/us/app/bible-word-study/id6747986444).
+
+## Help
+
+- [Scroll the Bible help center](https://help.scrollthebibleapp.com)
+- Email [support@thejcbsnbrand.com](mailto:support@thejcbsnbrand.com)
